@@ -1,0 +1,4 @@
+Inventarapplikation
+===================
+
+Ein KTSI-Projekt
