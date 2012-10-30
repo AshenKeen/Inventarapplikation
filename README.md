@@ -1,4 +1,4 @@
 Inventarapplikation
 ===================
 
-Ein KTSI-Projekt
+KTSI-Projekt für das 5. Semester
